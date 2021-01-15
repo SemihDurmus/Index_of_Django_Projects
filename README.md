@@ -1,4 +1,8 @@
-<h1 align="center">Index of Django Works</h1>  
+<p align="center"> 
+    <img align="center" src='django-logo.png' height=100>
+    <h1 align="center">Index of Django Works</h1>
+</p> 
+<br/>
   
   | Project Name | Repo link                                                      |           Overview                  |
   |--------------|:--------------------------------------------------------------:|------------------------------------:|
