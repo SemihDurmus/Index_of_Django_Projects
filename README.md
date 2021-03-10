@@ -6,7 +6,7 @@
  
   | Project Name | Repo link                                                      |
   |--------------|:--------------------------------------------------------------:|
-  |Django Blog REST| -[Repository](https://github.com/SemihDurmus/Django__Blog.git)<br/>-[Live on Heroku](https://fs-blog-backend.herokuapp.com/)|  
+  |Django Blog REST| -[Repository](https://github.com/SemihDurmus/Django__Blog.git)|  
   |Django Quiz REST| [Repository](https://github.com/SemihDurmus/Django_Quiz)     |                                     
   |Django REST   | [Repository](https://github.com/SemihDurmus/Django_REST)       |                                     
   |Django Weather| [Repository](https://github.com/SemihDurmus/Django_Weather_App)|                                     
